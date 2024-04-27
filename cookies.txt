@@ -1,0 +1,29 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.96mhengonghuat.com	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.96mhengonghuat.com	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.96mhengonghuat.com	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.96mhengonghuat.com	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.96mhengonghuat.com	TRUE	/schema.org	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.96mhengonghuat.com	TRUE	/schema.org	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.96mhengonghuat.com	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.96mhengonghuat.com	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.96mhengonghuat.com	TRUE	/signals	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.96mhengonghuat.com	TRUE	/signals	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.96mhengonghuat.com	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.96mhengonghuat.com	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.96mhengonghuat.com	TRUE	/1376	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.96mhengonghuat.com	TRUE	/1376	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.96mhengonghuat.com	TRUE	/1376	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.96mhengonghuat.com	TRUE	/1376	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.96mhengonghuat.com	TRUE	/POST	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.96mhengonghuat.com	TRUE	/POST	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.96mhengonghuat.com	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.96mhengonghuat.com	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.96mhengonghuat.com	TRUE	/a	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.96mhengonghuat.com	TRUE	/a	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.96mhengonghuat.com	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.96mhengonghuat.com	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.96mhengonghuat.com	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	e8e186f9-17d9-40eb-5dcb-253caf949803
+www.96mhengonghuat.com	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2024-04-18 09:34:44.755814653 +0000 UTC m=+182129.922135460"
+
